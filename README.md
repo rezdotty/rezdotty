@@ -58,6 +58,6 @@ only satisfaction.
 
 #### My projects:
 
-[Freepik (Persian .v)](https://freepik.ir/)<br>
+[RezDotty](https://rezdotty.ir/)<br>
 
 <hr/>
