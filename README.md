@@ -56,7 +56,6 @@ only satisfaction.
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-8300ba?style=flat-square&logo=PhpStorm&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-#### My projects:
 
 [RezDotty](https://rezdotty.ir/)<br>
 
