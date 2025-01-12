@@ -1,5 +1,5 @@
 <!--
-**mrlewando/mrlewando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rezdotty/rezdotty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h2>About Me</h1>
 
-### Hey there 👋:smile:
+### Hey there 👋🙂
 
 I am a **Web Developer** who has been developing web and mobile
 sites for more than 5 years, across virtually every industry.
