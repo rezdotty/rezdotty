@@ -36,6 +36,7 @@ only satisfaction.
 
 
 #### FrontEnd:
+![Angular](http://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![VueJs](http://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![WordPress](http://img.shields.io/badge/-wordpress-21759B?style=flat-square&logo=wordpress&logoColor=FFFFFF)
